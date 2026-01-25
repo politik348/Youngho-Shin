@@ -1,0 +1,12 @@
+title: Youngho Shin
+description: M.A. (completed coursework), Sogang University
+theme: minima
+
+header_pages:
+  - cv.md
+  - research.md
+  - contact.md
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
